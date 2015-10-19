@@ -1,6 +1,12 @@
 # Jekyll configuration
 
-name: This is a test
+# <<<<<<< HEAD
+# name: This is a test
+# =======
+# name: This is test N 2
+# >>>>>>> gh-pages
+
+name: This is master branch
 description: Cryptonomica (TM)
 
 # url is currently only used only for the RSS feed in feed.xml
