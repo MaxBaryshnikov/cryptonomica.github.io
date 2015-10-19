@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 364.0,
+		"last_filter": "htm",
+		"selected_items":
+		[
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ma",
+				"Markdown HTML Preview"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ista",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 508.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/viktor/GIT/cryptonomica.github.io"
+	],
+	"file_history":
+	[
+		"/home/viktor/GIT/ageyev.github.io/index.html",
+		"/home/viktor/GIT/cryptonomica.github.io/links.html",
+		"/home/viktor/GIT/cryptonomica.github.io/_includes/links-list.html",
+		"/home/viktor/GIT/cryptonomica.github.io/_includes/sidebar.html",
+		"/home/viktor/GIT/cloud-endpoints-tutorial/.gitignore",
+		"/home/viktor/GIT/cloud-endpoints-tutorial/habrahabr/habrahabr.google-cloud-endpoints.tutorial.md",
+		"/home/viktor/GIT/ageyev.github.io/_includes/footer.html",
+		"/home/viktor/GIT/cryptonomica.github.io/_posts/2015-10-19-test-post.md",
+		"/home/viktor/GIT/ageyev.github.io/_posts/2015-10-19-welcome-to-jekyll.markdown",
+		"/home/viktor/GIT/cryptonomica.github.io/_config.yml",
+		"/home/viktor/GIT/ageyev.github.io/_posts/2015-10-19-new-post.md",
+		"/home/viktor/GIT/ageyev.github.io/feed.xml",
+		"/home/viktor/GIT/cryptonomica.github.io/Gemfile",
+		"/home/viktor/TMP/jekyll.setup.sh",
+		"/home/viktor/GIT/cryptonomica.github.io/.git/config",
+		"/home/viktor/TMP/jekyll-clean/README.md",
+		"/home/viktor/GIT/cryptonomica.github.io/.gitignore",
+		"/home/viktor/GIT/cryptonomica.github.io/README.md",
+		"/home/viktor/GIT/cryptonomica.github.io/index.html",
+		"/home/viktor/GIT/cryptonomica.github.io/Gemfile.lock",
+		"/home/viktor/TMP/hexo.test/_config.yml",
+		"/home/viktor/TMP/hexo.test/package.json",
+		"/home/viktor/TMP/jekyll.test/Gemfile",
+		"/home/viktor/GIT/cryptonomica-project-docs/IACC.Cryptonomica.Project.Description.EN.md",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/TheHive/Ashdod/pics/list.txt",
+		"/home/viktor/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/viktor/TMP/test.md",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/TheHive/Ashdod/Jimmy Levy/JimmyLevy.Notes.md",
+		"/home/viktor/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/MarkdownEditing/README.md",
+		"/home/viktor/.config/sublime-text-3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/User/Markdown (Standard).sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/viktor/.config/sublime-text-3/Packages/User/Markdown Extended.sublime-settings",
+		"/home/viktor/GIT/cryptonomica-project-docs/.directory",
+		"/home/viktor/GIT/cryptonomica-project-docs/.gitignore",
+		"/home/viktor/GIT/iacc-arbitration-rules/cryptonomica.project.description.md",
+		"/home/viktor/Dropbox/2.BUS/#IACC/pricing.notes.md",
+		"/home/viktor/GIT/iacc-arbitration-rules/README.md",
+		"/home/viktor/GIT/iacc-arbitration-rules/Arbitration_Rules/UNCITRAL/UNCITRAL-Arbitration-Rules-2013-e.md",
+		"/home/viktor/GIT/cryptonomica.open.source/.git/config",
+		"/home/viktor/.config/sublime-text-3/Packages/User/imglink.sublime-snippet",
+		"/home/viktor/.config/sublime-text-3/Packages/User/javasource.sublime-snippet",
+		"/home/viktor/GIT/vi-gae-helloword/src/main/webapp/js/app.js",
+		"/home/viktor/GIT/vi-gae-helloword/src/main/java/com/example/helloworld/YourFirstAPI.java",
+		"/home/viktor/GIT/vi-gae-helloword/src/main/webapp/WEB-INF/appengine-web.xml",
+		"/home/viktor/GIT/helloendpoints/src/main/java/com/example/helloendpoints/Greetings.java",
+		"/home/viktor/GIT/helloendpoints/src/main/java/com/example/helloendpoints/HelloGreeting.java",
+		"/home/viktor/GIT/helloendpoints/pom.xml",
+		"/home/viktor/GIT/vi-gae-helloword/src/main/java/com/example/helloworld/DisplayUserInfoResponse.java",
+		"/home/viktor/GIT/gaeendpointstest/src/main/java/com/appspot/gaeendpointstest/MyBean.java",
+		"/home/viktor/GIT/gaeendpointstest/src/main/webapp/WEB-INF/appengine-web.xml",
+		"/home/viktor/GIT/gaeendpointstest/pom.xml",
+		"/home/viktor/GIT/gaeendpointstest/src/main/java/com/appspot/gaeendpointstest/YourFirstAPI.java",
+		"/media/viktor/377E-903B/workspace/00/00_Conference_Central/src/main/java/com/google/devrel/training/conference/domain/Announcement.java",
+		"/media/viktor/377E-903B/workspace/00/00_Conference_Central/src/main/java/com/google/devrel/training/conference/Constants.java",
+		"/media/viktor/377E-903B/workspace/00/00_Conference_Central/src/main/java/com/google/devrel/training/conference/spi/SessionApi.java",
+		"/home/viktor/GIT/hello-habrahabr-api/pom.xml",
+		"/home/viktor/GIT/hello-habrahabr-api/hello-habrahabr-api.iml",
+		"/home/viktor/GIT/hello-habrahabr-api/nbactions.xml",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/TheHive/Ashdod/1X1 with Tal & Izabella/2015.10.08.Milestones.md",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/TheHive/Ashdod/1X1 with Tal & Izabella/2015.09.17.md",
+		"/home/viktor/GIT/vi-gae-helloword/src/main/webapp/index.html",
+		"/home/viktor/GIT/vi-gae-helloword/set.account.sh",
+		"/home/viktor/GIT/vi-gae-helloword/commit.push.build.and.upload.sh",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/TheHive/Ashdod/Oren Glanz/notes.md",
+		"/home/viktor/GIT/hello-habrahabr-api/src/main/webapp/WEB-INF/web.xml",
+		"/media/viktor/377E-903B/workspace/00/00_Conference_Central/src/main/webapp/WEB-INF/web.xml",
+		"/home/viktor/new.ubuntu.install.sh",
+		"/home/viktor/GIT/hello-habrahabr-api/src/main/java/com/appspot/hello_habrahabr_api/YourFirstAPI.java",
+		"/home/viktor/GIT/hello-habrahabr-api/src/main/java/com/appspot/hello_habrahabr_api/Constants.java",
+		"/home/viktor/.conkyrc",
+		"/home/viktor/GIT/hello-habrahabr-api/commit.push.build.and.upload.sh",
+		"/home/viktor/GIT/hello-habrahabr-api/.gitignore",
+		"/home/viktor/GIT/.directory",
+		"/home/viktor/GIT/hello-habrahabr-api/eclipse-launch-profiles/UpdateApplication.launch",
+		"/home/viktor/GIT/hello-habrahabr-api/set.account.sh",
+		"/home/viktor/GIT/hello-habrahabr-api/build.and.upload.sh",
+		"/home/viktor/GIT/cloud-endpoints-tutorial/.directory",
+		"/home/viktor/Dropbox/Desk_settings/Sublime text/User (09) Linux/Preferences.sublime-settings",
+		"/home/viktor/Dropbox/2.BUS/#IACC/Accelerators/Boost VC/2015.10.06.Notes.md",
+		"/home/viktor/GIT/hello-habrahabr-api/src/main/webapp/WEB-INF/appengine-web.xml",
+		"/home/viktor/GIT/hello-habrahabr-api/.git/config",
+		"/tmp/appcfg6366334298445177389.log",
+		"/etc/apt/sources.list",
+		"/home/viktor/GIT/cloud-endpoints-tutorial/habrahabr/images/.directory",
+		"/home/viktor/rings-v1.3.1.lua",
+		"/home/viktor/.bashrc",
+		"/home/viktor/Dropbox/Desk_settings/Sublime text/User (09) Linux/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"IU",
+			"mini",
+			"pic",
+			"pic.05",
+			"pic.",
+			"maven",
+			"cpu",
+			"intell",
+			"idea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cryptonomica.github.io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
